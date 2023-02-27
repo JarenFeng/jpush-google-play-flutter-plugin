@@ -36,6 +36,6 @@ android {
 
 dependencies {
     implementation 'cn.jiguang.sdk:jpush:4.9.0'
-    compile files('libs/jcore-android-2.9.0-google_play.jar')
+    implementation files('libs/jcore-android-2.9.0-google_play.jar')
     // implementation 'cn.jiguang.sdk:jcore:4.1.0'
 }
